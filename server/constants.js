@@ -1,1 +1,1 @@
-export const DB_NAME="dataneuron"
+export const DB_NAME="test"
