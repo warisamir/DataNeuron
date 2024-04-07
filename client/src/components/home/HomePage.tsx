@@ -1,4 +1,4 @@
-import FirtsComponent from "./FirtsComponent";
+import FirstComponent from "./FirstComponent";
 import SecondComponent from "./SecondComponent";
 import ThirdComponent from "./ThirdComponent";
 import {
@@ -15,7 +15,7 @@ const HomePage = () => {
           <ResizablePanelGroup direction="horizontal">
             <ResizablePanel defaultSize={30}>
               <div className="flex justify-center items-center p-4 border h-full">
-                <FirtsComponent />
+                <FirstComponent />
               </div>
             </ResizablePanel>
             <ResizableHandle withHandle />
