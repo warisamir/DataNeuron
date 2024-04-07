@@ -1,2 +1,2 @@
 /// <reference types="vite/client" />
-VITE_API_BASE_URL="https://dataneuron-111f.onrender.com/api"
+VITE_API_BASE_URL="https://dataneuron-111f.onrender.com/"
